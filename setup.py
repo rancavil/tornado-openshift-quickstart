@@ -1,6 +1,5 @@
+#!/usr/bin/env python
 from setuptools import setup
-
-import os
 
 # Put here required packages or
 # Uncomment one or more lines below in the install_requires section
