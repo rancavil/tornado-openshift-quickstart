@@ -33,7 +33,7 @@ That's it. You can now checkout your application at:
 The structure of directories created are:
 
      tornadopy3/
-          app.py
+          wsgi.py
           .gitignore
           README.md
           setup.py
