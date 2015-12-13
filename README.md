@@ -37,6 +37,7 @@ The structure of directories created are:
           .gitignore
           README.md
           setup.py
+          requirements.txt
           data/
           libs/
           .openshift/
